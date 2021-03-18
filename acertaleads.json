@@ -1,0 +1,34 @@
+{
+  "leads": [
+    {
+      "nome": "João da Silva Siqueiraaa",
+      "email": "joaosiqueira@gmail.com",
+      "cpf": "05537357054",
+      "estadoCivil": "Solteiro(a)",
+      "nomeConjugue": "aaaaa",
+      "id": 1
+    },
+    {
+      "nome": "Elias Sartori",
+      "email": "elias.sartori@gmail.com",
+      "cpf": "033.990.920-08",
+      "estadoCivil": "Solteiro(a)",
+      "nomeConjugue": "aadssad",
+      "id": 2
+    }
+  ],
+  "tiposEstadoCivil": [
+    {
+      "nomeEstadoCivil": "Solteiro(a)"
+    },
+    {
+      "nomeEstadoCivil": "Casado(a)"
+    },
+    {
+      "nomeEstadoCivil": "Viúvo(a)"
+    },
+    {
+      "nomeEstadoCivil": "Separado(a)"
+    }
+  ]
+}
